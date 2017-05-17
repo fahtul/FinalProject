@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JenisHerbal</string>
+    <string name="alang1">Meredakan Panas Dalam</string>
+    <string name="alang2">Mengatasi Sakit Ginjal</string>
+    <string name="alang3">Mengobati Mimisan</string>
+    <string name="alang4">Mengobati Kencing Darah</string>
+    <string name="alang5">Obat Muntah Darah</string>
+    <string name="jambu1">Mengobati Sakit Diare</string>
+    <string name="jambu2">Mengontrol Kolesterol</string>
+    <string name="jambu3">Mengatasi Diabetes</string>
+    <string name="jambu4">Mempengaruhi Kardiovaskuler</string>
+    <string name="jambu5">Mengobati Rambut Rontok</string>
+    <string name="sirih1">Mengobati penyakit asma</string>
+    <string name="sirih2">Menyembuhkan radang tenggorokkan</string>
+    <string name="sirih3">Mengobati batuk</string>
+    <string name="sirih4">Mengobati penyakit <Bronchitis></Bronchitis></string>
+    <string name="sirih5">Mengobati demam berdarah</string>
+    <string name="lidah1">Alkalisasi Tubuh</string>
+    <string name="lidah2">Sistem Imun Tubuh</string>
+    <string name="lidah3">Mengurangi Berat Badan</string>
+    <string name="lidah4">Melawan Peradangan</string>
+    <string name="lidah5">Membantu Diabetes</string>
+</resources>
