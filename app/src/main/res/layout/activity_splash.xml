@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.root.jenisherbal.Splash">
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="480dp"
+    android:src="@drawable/splash"
+    android:id="@+id/splash"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Created By Fahtul Abdul Rahman"
+        android:layout_below="@+id/splash"
+        android:layout_alignParentEnd="true" />
+    </RelativeLayout>

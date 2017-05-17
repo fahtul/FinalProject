@@ -10,16 +10,20 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
-            <intent-filter>
+        </activity>
+        <activity android:name=".Splash">
+        <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
+    </activity>
         <activity android:name=".akaralang"></activity>
         <activity android:name=".daunsirih"></activity>
         <activity android:name=".daunjambu"></activity>
         <activity android:name=".lidahbuaya"></activity>
-    </application>
+
+        </application>
+
 
 </manifest>
